@@ -3,16 +3,13 @@ class Solution:
         i=0
         res=[]
         while i<len(nums):
-            left_ele=[]
-            right_ele=[]
+            left_ele=set()
+            right_ele=set()
             for j in range(i+1):
-                if nums[j] not in left_ele:
-                    left_ele.append(nums[j])
+                left_ele.add(nums[j])
             for k in range(i+1,len(nums)):
-                if nums[k] not in right_ele:
-                    right_ele.append(nums[k])
-            temp=len(left_ele)-len(right_ele)
-            res.append(temp)
+                right_ele.add(nums[k])
+            res.append(len(left_ele)-len(right_ele))
             i+=1
         return res
 
