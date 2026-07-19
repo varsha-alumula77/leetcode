@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/varsha-alumula77/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/varsha-alumula77/leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/varsha-alumula77/leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/varsha-alumula77/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/varsha-alumula77/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varsha-alumula77/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/varsha-alumula77/leetcode/tree/master/0268-missing-number) |
 | [2670-find-the-distinct-difference-array](https://github.com/varsha-alumula77/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/varsha-alumula77/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/varsha-alumula77/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/varsha-alumula77/leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -43,10 +46,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/varsha-alumula77/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/varsha-alumula77/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/varsha-alumula77/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/varsha-alumula77/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/varsha-alumula77/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/varsha-alumula77/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/varsha-alumula77/leetcode/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/varsha-alumula77/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/varsha-alumula77/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
