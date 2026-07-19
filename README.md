@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/varsha-alumula77/leetcode/tree/master/0136-single-number) |
 | [0724-find-pivot-index](https://github.com/varsha-alumula77/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/varsha-alumula77/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varsha-alumula77/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/varsha-alumula77/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/varsha-alumula77/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/varsha-alumula77/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
