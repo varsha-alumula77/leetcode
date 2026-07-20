@@ -3,6 +3,6 @@ class Solution:
         res=0
         for i in range(len(nums)+1):
             res=res^i
-        for j in nums:
-            res=res^j
+        for j in range(len(nums)) :
+            res=res^nums[j]
         return res
