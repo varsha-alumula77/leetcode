@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/varsha-alumula77/leetcode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varsha-alumula77/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/varsha-alumula77/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varsha-alumula77/leetcode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/varsha-alumula77/leetcode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
