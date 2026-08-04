@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/varsha-alumula77/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/varsha-alumula77/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varsha-alumula77/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1446-consecutive-characters](https://github.com/varsha-alumula77/leetcode/tree/master/1446-consecutive-characters) |
 ## Stack
 |  |
 | ------- |
