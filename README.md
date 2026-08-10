@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/varsha-alumula77/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/varsha-alumula77/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/varsha-alumula77/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/varsha-alumula77/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/varsha-alumula77/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/varsha-alumula77/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varsha-alumula77/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varsha-alumula77/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/varsha-alumula77/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/varsha-alumula77/leetcode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
