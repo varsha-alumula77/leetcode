@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varsha-alumula77/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/varsha-alumula77/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/varsha-alumula77/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/varsha-alumula77/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/varsha-alumula77/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/varsha-alumula77/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/varsha-alumula77/leetcode/tree/master/0724-find-pivot-index) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/varsha-alumula77/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/varsha-alumula77/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varsha-alumula77/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/varsha-alumula77/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/varsha-alumula77/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varsha-alumula77/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/varsha-alumula77/leetcode/tree/master/0977-squares-of-a-sorted-array) |
