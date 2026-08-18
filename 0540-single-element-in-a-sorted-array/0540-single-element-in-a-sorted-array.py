@@ -10,4 +10,4 @@ class Solution:
                 l+=2
             else:
                 r=mid
-        return nums[l]
+        return nums[r]
